@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/votre-compte/StatX-releases/releases"><img src="https://img.shields.io/github/v/release/votre-compte/StatX-releases?style=flat-square&color=blue" alt="GitHub release"></a>
+  <a href="https://github.com/vyndevv/StatX-releases/releases"><img src="https://img.shields.io/github/v/release/votre-compte/StatX-releases?style=flat-square&color=blue" alt="GitHub release"></a>
   <a href="https://github.com/votre-compte/StatX-releases/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg?style=flat-square" alt="License"></a>
   <img src="https://img.shields.io/badge/platform-Windows%2010%2F11-blueviolet?style=flat-square" alt="Platform">
 </p>
