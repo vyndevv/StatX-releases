@@ -1,7 +1,7 @@
 # StatX
 
 <p align="center">
-  <img src="https://i.imgur.com/r6CYh5W.png" alt="Logo StatX" width="1280" height="640">
+  <img src="https://i.imgur.com/awRsj8j.png" alt="Logo StatX" width="1280" height="640">
 </p>
 
 <p align="center">
