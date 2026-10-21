@@ -1,7 +1,7 @@
 # StatX
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/icons/1540284392365101177/89efbc719cbb81c54beeb661ca895827.webp?size=128" alt="Logo StatX" width="120" height="120">
+  <img src="https://i.imgur.com/awRsj8j.png" alt="Logo StatX" width="1280" height="640">
 </p>
 
 <p align="center">
